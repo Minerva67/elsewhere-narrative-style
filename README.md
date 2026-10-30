@@ -2,6 +2,14 @@
 
 想把一条融资新闻、一个公司故事或一位创始人，写成读者愿意读完的长文，而不是一篇通稿。这个 skill 整理了 elsewhere（别处发生）的写法：标题怎么起、开头怎么写、细节怎么用、结尾怎么收。
 
+## 示例
+
+选题是 Slack 的起源：Stewart Butterfield 的游戏 Glitch 失败，团队内部用的聊天工具变成了 Slack。文中每个日期、金额和原话都对过公开来源，来源互相矛盾的细节已删掉，文末附参考链接。
+
+全文：[examples/slack-glitch.md](examples/slack-glitch.md)
+
+![示例截图](examples/preview.jpg)
+
 ## 适合什么时候用
 
 - 指定用别处发生的风格写一篇文章
@@ -35,6 +43,7 @@
 
 - `SKILL.md`：选题与素材检查、三种文体、标题写法、句法、细节要求、自检清单
 - `references/pattern-library.md`：代表作逐篇拆解、标题示例和改写示范
+- `examples/`：示例产出和截图
 
 ## 安装
 
