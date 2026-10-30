@@ -45,3 +45,7 @@ git clone https://github.com/Minerva67/elsewhere-narrative-style.git ~/.claude/s
 重启 Claude Code 后，直接描述你的任务就会触发。也可以输入 `/elsewhere-narrative-style` 手动调用。
 
 更多 skill 见 [claude-skills](https://github.com/Minerva67/claude-skills)。
+
+## 许可证
+
+MIT
